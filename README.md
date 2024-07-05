@@ -1,3 +1,3 @@
 # Support-Vector-Machine
-A logistic regression model on iris data set predicting type of flower depending on the attributes.
- Dataset -  https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html
+SVM model that classifies the digits from the image supplied.
+ Dataset -  https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html
